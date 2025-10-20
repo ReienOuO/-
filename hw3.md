@@ -79,7 +79,7 @@
 
 ## 功能分解圖
 
-![Funtion](Funtion.png "Funtion")
+![Function](Function.png "Function")
 
 ---
 
