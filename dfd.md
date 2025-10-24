@@ -1,5 +1,3 @@
-#小組作業4
-
 flowchart LR
     User([使用者])
     System([物體3D人物模型轉換系統])
